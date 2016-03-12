@@ -1,0 +1,70 @@
+
+			.axis path, .axis line {
+				fill: none; stroke: black; shape-rendering: crispEdges;
+			}
+			.axis2 path, .axis2 line {
+				fill: none; stroke: black; shape-rendering: crispEdges;
+			}
+			.axisbar path, .axisbar line {
+				fill: none; stroke: black; shape-rendering: crispEdges;
+			}
+			.axisbar text {
+				font-family: sans-serif;
+				font-size: 11px;
+			}
+			
+			.y-axis path, .y-axis line {
+				fill: none; stroke: black; shape-rendering: crispEdges;
+			} 
+			.x-axis path, .x-axis line {
+				fill: none; stroke: black; shape-rendering: crispEdges;
+			} 
+			.line0 {
+				fill: none; stroke: #E41A1C; stroke-width: 2.0px; stroke-linecap:square;
+			}
+			.lineDot0 {
+				fill: none; stroke: #E41A1C; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}.line1 {
+				fill: none; stroke: #2b83ba; stroke-width: 2.0px; stroke-linecap:square;
+			}
+			.lineDot1 {
+				fill: none; stroke: #2b83ba; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}
+			.line2 {
+				fill: none; stroke: #abdda4; stroke-width: 2.0px; stroke-linecap:square;
+			}
+			.lineDot2 {
+				fill: none; stroke: #abdda4; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}
+			.line3 {
+				fill: none; stroke: #404040; stroke-width: 2.0px;
+			}
+			.lineDot3 {
+				fill: none; stroke: #404040; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}
+			.line4 {
+				fill: none; stroke: #fdae61; stroke-width: 2.0px;
+			}
+			.lineDot4 {
+				fill: none; stroke: #fdae61; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}
+			.line5 {
+				fill: none; stroke: #d7191c; stroke-width: 2.0px;
+			}
+			.lineDot5 {
+				fill: none; stroke: #d7191c; stroke-width: 1.0px; stroke-dasharray:3,2;
+			}
+			.lineNone {
+				display: none;
+			}
+
+			/* x轴与y轴上对应坐标的虚线 */
+			.lineDotGray {
+				fill: none; stroke: gray; stroke-width: 0.5; stroke-dasharray:10,8;
+			}
+			
+			.brush .extent {
+			  stroke: #fff;
+			  fill-opacity: .125;
+			  shape-rendering: crispEdges;
+			}

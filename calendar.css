@@ -1,0 +1,28 @@
+.day {
+  fill: #fff;
+  stroke: #ccc;
+}
+
+.month {
+  fill: none;
+  stroke: grey;
+  stroke-width: 2px;
+}
+.lostdata{
+	fill: #fff;
+	stroke: #ccc;
+
+}
+
+.RdYlGn .q0-11{fill:#91cf60}
+.RdYlGn .q1-11{fill:yellow}
+.RdYlGn .q2-11{fill:orange}
+.RdYlGn .q3-11{fill:red}
+.RdYlGn .q4-11{fill:#c51b7d}
+.RdYlGn .q5-11{fill:#542788}
+.RdYlGn .q6-11{fill:rgb(217,239,139)}
+.RdYlGn .q7-11{fill:rgb(166,217,106)}
+.RdYlGn .q8-11{fill:rgb(102,189,99)}
+.RdYlGn .q9-11{fill:rgb(26,152,80)}
+.RdYlGn .q10-11{fill:rgb(0,104,55)}
+	
